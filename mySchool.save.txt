@@ -1,0 +1,21 @@
+school:ECS Java Training School
+subject:Basics,1,1,5
+subject:Lab 1,2,2,2
+subject:Arrays,3,1,3
+student:Peter,M,60
+student:John,M,22
+student:Annabelle,F,31
+student:Student1,F,28,cert:2
+student:Student2,M,54,cert:2
+student:Student3,M,56,cert:2
+student:Student4,M,21
+student:Student5,M,18
+student:Student6,M,48
+Teacher:Yvonne,F,55
+Demonstrator:Beth,F,45
+OOTrainer:Chris,M,62
+Demonstrator:Demonstrator1,M,47
+course:1,0,2,instructor:Yvonne,student:Peter,student:John,student:Annabelle
+course:3,0,2,instructor:Chris,student:Student4
+course:2,1,2,instructor:Beth,student:Student5,student:Student6
+counters:7,3
