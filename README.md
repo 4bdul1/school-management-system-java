@@ -4,6 +4,14 @@ A Java school simulation that models students, instructors, courses, and subject
 
 ## Run
 
-Requires a Java Development Kit. Compile the source files in `src/` and run the program's `Main` class. Example configuration files are included in the repository.
+Requires a Java Development Kit. From the repository root, compile the source files and run `Administrator`:
+
+```bash
+mkdir -p build
+javac -d build src/*.java
+java -cp build Administrator
+```
+
+Example configuration files are included in the repository.
 
 The included configuration uses sample names for the simulation.
